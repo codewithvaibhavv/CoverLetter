@@ -24,10 +24,9 @@ vaibhavsharma11061998@gmail.com
 {formatted_address}
 
 Dear Hiring Manager,
+                        I am writing to express my interest in the Dot Net Developer position at {company_name}, as advertised on {appliedVia}. With my experience in Dot Net development and a strong passion for C#, I am confident that I would be a valuable addition to your team.
 
-I am writing to express my interest in the Dot Net Developer position at {company_name}, as advertised on {appliedVia}. With my experience in Dot Net development and a strong passion for C#, I am confident that I would be a valuable addition to your team.
-
-In my previous role as Jr. Dot Net Developer at Teerthankar Mahaveer University, I developed solid skills in this field. I am eager to contribute my expertise to {company_name} and would welcome the opportunity to discuss how my qualifications align with your needs.
+In my previous role as Dot Net Developer at Teerthankar Mahaveer University, I developed solid skills in this field. I am eager to contribute my expertise to {company_name} and would welcome the opportunity to discuss how my qualifications align with your needs.
 
 Thank you for considering my application. I look forward to the possibility of speaking with you.
 
