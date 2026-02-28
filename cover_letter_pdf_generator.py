@@ -6,9 +6,6 @@ company_name = input("Enter Company Name: ")
 company_address = input("Enter Company Address (comma-separated): ")
 appliedVia = input("Where did you see the job posting? (e.g., Naukri.com, LinkedIn): ")
 
-# ----------------------------
-# Format address: two parts per line
-# ----------------------------
 address_parts = [part.strip() for part in company_address.split(",")]
 formatted_address = "\n".join([", ".join(address_parts[i:i+2]) for i in range(0, len(address_parts), 2)])
 
