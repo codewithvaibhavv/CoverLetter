@@ -18,7 +18,6 @@ Sec - 6, E - 62
 Moradabad (244001)
 vaibhavsharma11061998@gmail.com
 9760653801
-
 {date}
 
 {company_name}
