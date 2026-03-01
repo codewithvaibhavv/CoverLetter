@@ -28,7 +28,6 @@ In my previous role as Dot Net Developer at Teerthankar Mahaveer University, I d
 Thank you for considering my application. I look forward to the possibility of speaking with you.
 
 Sincerely,
-
 Vaibhav Sharma
 """
 
